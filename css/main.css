@@ -1,0 +1,11 @@
+.galary_img{
+    height: 180px;
+    width: 280px;
+    border-style:solid;
+    border-image-width:
+}
+
+a:hover{
+    outline:2px dashed #3d1f15;
+    outline-offset: -10px;
+}
